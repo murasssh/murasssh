@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 data-importer="text" align="center">Hello, how are u?</h1>
 
-<!--
-**murasssh/murasssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div data-importer="image" align="left">
+  <img data-importer="image" height="82" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjUyemVlNGo0Njc5cGc2dDV0MGJrZ3ExMXBxMnF4YnRvbTFreDYwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TYJGc5wB1ZlQDYbxhl/giphy.gif"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p data-importer="text" align="left">My name is Murillo Anquieta and I'm a  Student from Brazil</p>
+
+###
+
+<h2 data-importer="text" align="left">About me</h2>
+
+###
+
+<p data-importer="text" align="left">🚀 Beginner Developer<br><br>📚 Currently learning programming and software development<br>💻 Exploring new technologies and building projects<br>🌱 Learning how to code and develop</p>
+
+###
+
+<h2 data-importer="text" align="left">Learning</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="left">Linux</h1>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murasssh/murasssh/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murasssh/murasssh/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/murasssh/murasssh/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
+
+###
