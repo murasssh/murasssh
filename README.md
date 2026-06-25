@@ -43,11 +43,3 @@
 </div>
 
 ###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murasssh/murasssh/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murasssh/murasssh/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/murasssh/murasssh/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
-###
