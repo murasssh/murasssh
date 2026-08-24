@@ -3,7 +3,8 @@
 ###
 
 <div data-importer="image" align="left">
-  <img data-importer="image" height="82" src="https://tenor.com/pt-BR/view/vibe-coder-coder-code-coding-gif-11408855839556407494"  />
+  <img data-importer="image" height="82" src=""  />
+  <div class="tenor-gif-embed" data-postid="11408855839556407494" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/vibe-coder-coder-code-coding-gif-11408855839556407494">Vibe Coder Coding GIF</a>from <a href="https://tenor.com/search/vibe+coder-gifs">Vibe Coder GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ###
