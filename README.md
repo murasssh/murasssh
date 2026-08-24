@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="image" align="left">
-  <img data-importer="image" height="82" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjUyemVlNGo0Njc5cGc2dDV0MGJrZ3ExMXBxMnF4YnRvbTFreDYwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TYJGc5wB1ZlQDYbxhl/giphy.gif"  />
+  <img data-importer="image" height="82" src="https://tenor.com/pt-BR/view/vibe-coder-coder-code-coding-gif-11408855839556407494"  />
 </div>
 
 ###
